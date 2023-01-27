@@ -1,1 +1,1 @@
-# The default keymap for reviung41
+# Keymap for reviung41
